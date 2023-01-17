@@ -1,0 +1,7 @@
+C:\Users\Y2SPECTIFUL\source\repos\Fighting Game Beginner Guide\Fighting Game Beginner Guide\bin\Debug\Fighting Game Beginner Guide.exe.config
+C:\Users\Y2SPECTIFUL\source\repos\Fighting Game Beginner Guide\Fighting Game Beginner Guide\bin\Debug\Fighting Game Beginner Guide.exe
+C:\Users\Y2SPECTIFUL\source\repos\Fighting Game Beginner Guide\Fighting Game Beginner Guide\bin\Debug\Fighting Game Beginner Guide.pdb
+C:\Users\Y2SPECTIFUL\source\repos\Fighting Game Beginner Guide\Fighting Game Beginner Guide\obj\Debug\Fighting Game Beginner Guide.csprojAssemblyReference.cache
+C:\Users\Y2SPECTIFUL\source\repos\Fighting Game Beginner Guide\Fighting Game Beginner Guide\obj\Debug\Fighting Game Beginner Guide.csproj.CoreCompileInputs.cache
+C:\Users\Y2SPECTIFUL\source\repos\Fighting Game Beginner Guide\Fighting Game Beginner Guide\obj\Debug\Fighting Game Beginner Guide.exe
+C:\Users\Y2SPECTIFUL\source\repos\Fighting Game Beginner Guide\Fighting Game Beginner Guide\obj\Debug\Fighting Game Beginner Guide.pdb
